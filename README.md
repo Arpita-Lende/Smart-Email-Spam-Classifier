@@ -32,19 +32,27 @@ No more unwanted emails! 🚫
 === EMAIL SPAM DETECTOR ===
 
 Total Emails: 20
+
 Spam Emails: 10
+
 Real Emails: 10
+
 AI Model Accuracy: 75.0%
 
 === TESTING EMAILS ===
 
 🚫 SPAM → You won a free iPhone click here to claim
+
 ✅ REAL → Please submit your project report by Monday
+
 🚫 SPAM → Earn money fast from home no experience needed
+
 ✅ REAL → Your interview is scheduled for tomorrow 10am
+
 🚫 SPAM → Congratulations you have won 10 lakh rupees
 
 ### 🚀 How to Run
 
 py -m pip install pandas scikit-learn
+
 py spam_detector.py
